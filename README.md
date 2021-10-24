@@ -1,5 +1,4 @@
 # nodejs-just-readme
-# nodejs-just-readme
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 To develop a profesisonal readme file using node.js
