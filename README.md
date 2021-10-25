@@ -33,7 +33,7 @@ https://watch.screencastify.com/v/A7nU1CZCV5MTkDidQyQw
 
 ----------------------------------------------------------------
 ## Acceptance Criteria
-<li> Fulfilled functionality requirements to generate readme file using command line <li/>
+<li> Fulfilled functionality requirements to generate readme file using command line </li>
 <li> Demonstrated functionality by creating video documentation </li>
 
 ## User Story
