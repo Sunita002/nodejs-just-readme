@@ -31,6 +31,18 @@ Questions about this repository? Please contact me at [SunitaPersad020@gmail.com
 ## Video Demonstration For Generating README File 
 https://watch.screencastify.com/v/A7nU1CZCV5MTkDidQyQw
 
+----------------------------------------------------------------
+## Acceptance Criteria
+<li> Fulfilled functionality requirements to generate readme file using command line <li/>
+<li> Demonstrated functionality by creating video documentation </li>
+
+## User Story
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
 
 ## Screenshot of README File
 ![screenshot-readme](https://user-images.githubusercontent.com/87583026/138618254-2fd50a9f-bf40-4431-9ed3-26a869f88acc.PNG)
+
+## Directions
+Please locate output folder in repository for readme file generated in node.js 
