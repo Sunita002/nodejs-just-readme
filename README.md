@@ -46,4 +46,4 @@ SO THAT I can quickly create a professional README for a new project
 ![screenshot-readme](https://user-images.githubusercontent.com/87583026/138618254-2fd50a9f-bf40-4431-9ed3-26a869f88acc.PNG)
 
 ## Directions
-Please locate output folder in repository for readme file generated in node.js 
+Please locate output folder in repository for readme file generated in node.js using the command line
